@@ -5,7 +5,7 @@
 
 #### Github Followers 
 
-![GitHub followers](https://img.shields.io/github/followers/Official-Dev-Vineet?logo=GitHub&style=for-the-badge)](https://github.com/Official-Dev-Vineet)
+[![GitHub followers](https://img.shields.io/github/followers/Official-Dev-Vineet?logo=GitHub&style=for-the-badge)](https://github.com/Official-Dev-Vineet)
 
 #### **languages and tools:**  
 
