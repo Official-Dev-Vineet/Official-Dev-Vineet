@@ -2,8 +2,11 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
+
 #### Github Followers 
+
 ![GitHub followers](https://img.shields.io/github/followers/Official-Dev-Vineet?logo=GitHub&style=for-the-badge)](https://github.com/Official-Dev-Vineet)
+
 #### **languages and tools:**  
 
 <p align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
