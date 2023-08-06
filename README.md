@@ -26,6 +26,17 @@
 
 ##### - ⚡ Fun fact: There is no stack behind the full-Stack.
 ###  My Github stats
+```javascript
+const aboutMe={
+age:23,
+mailID:"viratsinghkaharwar8923@gmail.com"
+}
+
+
+
+
+
+```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" />
 
 ### Contents:
