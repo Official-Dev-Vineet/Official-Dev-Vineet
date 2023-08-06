@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hey Welcome Guys : 👋
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
+&nbsp;<div align="center">
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:viratsinghkaharwar8923@gmail.come)
+  [![Visits](https://komarev.com/ghpvc/?username=Official-Dev-Vineet&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Official-Dev-Vineet)
+</div>
 ##### - 🔭 I’m currently working on web development.
 
 ##### - 🌱 I’m currently learning mern full stack developer.
