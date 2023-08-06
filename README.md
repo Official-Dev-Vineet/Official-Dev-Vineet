@@ -14,15 +14,10 @@
 
 ##### - ⚡ Fun fact: There is no stack behind the full-Stack.
 
-<code>const aboutMe = {
-programingLanguages: [Javascript,PHP,C, C++, Python],
-askMeAbout: ["blockchain dapps", "web dev", "tech", "app dev", "photography"],
-technologies: {
-fullStack: {
-webDev: ["React", "Mongo", "Node", "Express", "MaterialUI"],
-},
-databases: ["mongoDB", "Mysql","SQLite3"],
-otherTools : ["Git","Chrome DevTools", "Visual Studio Code"],
-},
-funFact: "There are two ways to write error-free programs; only the third one works"
-}</code>
+<script>
+  var birthDate="2002"
+  let currentDate=new Date().getFullYear()
+  var totalAge=currentDate - birthDate
+  document.getElementById("currentAge").textContent=totalAge
+</script>
+#### - <p id="currentAge"> </p>
