@@ -13,7 +13,7 @@
 ##### - 😄 Pronouns: vinny
 
 ##### - ⚡ Fun fact: There is no stack behind the full-Stack.
-### - my Toodo states
+###  My Github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" />
 
 ### Contents:
