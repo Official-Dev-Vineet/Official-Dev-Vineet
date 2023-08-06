@@ -23,7 +23,7 @@
 </div>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Official-Dev-Vineet?template=classic&base.header=0&gists=1&lines=1&config.timezone=india)
+<p align="center">![Metrics](https://metrics.lecoq.io/Official-Dev-Vineet?template=classic&base.header=0&gists=1&lines=1&config.timezone=india)</p>
 
 ##### - 🔭 I’m currently working on web development.
 
