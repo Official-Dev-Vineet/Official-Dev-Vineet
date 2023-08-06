@@ -8,7 +8,7 @@
 ### - 😄 Pronouns: vinny
 ### - ⚡ Fun fact: There  is no stack behind the full-Stack. 
 
-<code>
+<div style="background:red">
 const aboutMe = {
   programingLanguages: [Javascript, Solidity, Dart, C++, Python, Java],
   askMeAbout: ["blockchain dapps", "web dev", "tech", "app dev", "photography"],
@@ -34,4 +34,4 @@ const aboutMe = {
  funFact: "There are two ways to write error-free programs; only the third one works"
 }
 
-</code>
+</div>
