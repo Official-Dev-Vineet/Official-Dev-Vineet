@@ -25,31 +25,27 @@
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:viratsinghkaharwar8923@gmail.com)
   [![Visits](https://komarev.com/ghpvc/?username=Official-Dev-Vineet&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Official-Dev-Vineet)
 </div>
-
+<div align="center">
+  
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-<p align="center"> [![Metrics](https://metrics.lecoq.io/Official-Dev-Vineet?template=classic&base.header=0&gists=1&lines=1&config.timezone=india)] </p>
+  ![Metrics](https://metrics.lecoq.io/Official-Dev-Vineet?template=classic&base.header=0&gists=1&lines=1&config.timezone=india)
+</div>
 
 ##### - 🔭 I’m currently working on web development.
-
 ##### - 🌱 I’m currently learning mern full stack developer.
 
-##### - 👯 I’m looking to collaborate on some big projects.
+### About me
 
-##### - 💬 Ask me about related to web technologies.
-
-##### - 📫 How to reach me: viratsinghkaharwar8923@gmail.com
-
-##### - 😄 Pronouns: vinny
-
-##### - ⚡ Fun fact: There is no stack behind the full-Stack.
-###  My Github stats
 ```javascript
 const aboutMe={
       age:23,
-      mailID:"viratsinghkaharwar8923@gmail.com"
+      mailId:"viratsinghkaharwar8923@gmail.com",
+      pronouns:"vinny",
+      funFact:"There is no stack behind the full-Stack."
 }
 ```
 ### My github Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /> </p>
 <img align="center" src="https://api.githubtrends.io/user/svg/Official-Dev-Vineet/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
 
