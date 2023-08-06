@@ -48,7 +48,6 @@ const aboutMe={
 ### My github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /> </p>
-<img align="center" src="https://api.githubtrends.io/user/svg/Official-Dev-Vineet/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
 
 ### Contents:
   - [Categories](#categories)
