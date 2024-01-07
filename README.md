@@ -3,6 +3,86 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
+
+<p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=text&text=Im%20VineetSingh&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+</a>
+</p>  
+
+<p align="left">
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=Freshworks&role=software%20developer%20&location=Faridabad&fill=black">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23207139&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+</a>
+</p>
+
+## Things I use on a daily basis
+
+<p align="left">  
+<a href="https://github.com/Official-Dev-Vineet/">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+
+  <a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=babel&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/Official-Dev-Vineet/">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=df5c43">  
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=cd6799">
+</a>
+
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> 
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
+
+
+## My Skills 💻
+
+
+
+<p align="left">
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=98&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=97&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=90&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=70&design=candy&fill=ff69b4">
+</a>
+<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
+</a>
+</p>
+
+
+# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
+
 #### Github Followers 
 [![GitHub followers](https://img.shields.io/github/followers/Official-Dev-Vineet?logo=GitHub&style=for-the-badge)](https://github.com/Official-Dev-Vineet)
 
