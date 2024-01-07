@@ -108,7 +108,7 @@ const aboutMe={
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /></p>
 
-### Contents:
+### Contents: create your own readme template for your github account
   - [Categories](#categories)
       - [GitHub Actions 🤖](#github-actions-)
       - [Game Mode 🚀](#game-mode-)
