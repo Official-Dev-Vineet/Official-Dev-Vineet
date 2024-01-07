@@ -41,13 +41,13 @@
 const aboutMe={
       age:23,
       mailId:"viratsinghkaharwar8923@gmail.com",
-      pronouns:"vinny",
-      funFact:"There is no stack behind the full-Stack."
+      pronouns:"Vineet",
+      funFact:"Let us take you into a deeper experience, make a moment a lasting conveyable memory. Let us help build your tribe."
 }
 ```
 ### My github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Official-Dev-Vineet&show_icons=true&theme=gotham" alt="Official-Dev-Vineet" /></p>
 
 ### Contents:
   - [Categories](#categories)
