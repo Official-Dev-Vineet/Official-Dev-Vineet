@@ -21,43 +21,27 @@
 
 ## Things I use on a daily basis
 
-<p align="left">  
-<a href="https://github.com/Official-Dev-Vineet/">
+<p align="center">  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-
-  <a href="https://github.com/Official-Dev-Vineet/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=babel&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=b8c2cc">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/Official-Dev-Vineet/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=df5c43">  
-</a>
-<a href="https://github.com/Official-Dev-Vineet/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=cd6799">
-</a>
-
-<a href="https://github.com/Official-Dev-Vineet/">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=306998">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> 
-<a href="https://github.com/Official-Dev-Vineet/">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/Official-Dev-Vineet/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="https://github.com/Official-Dev-Vineet/">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=cd6799">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=306998">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=AEB2D5">
 </p>
 
 
 
 ## My Skills 💻
 
-
+<!--
 
 <p align="left">
 <a href="https://github.com/Official-Dev-Vineet/">
@@ -79,9 +63,9 @@
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 </a>
 </p>
+-->
 
-
-# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
+# Made with :purple_heart: using components from [Readme components](https://github.com/Official-Dev-Vineet)
 
 #### Github Followers 
 [![GitHub followers](https://img.shields.io/github/followers/Official-Dev-Vineet?logo=GitHub&style=for-the-badge)](https://github.com/Official-Dev-Vineet)
